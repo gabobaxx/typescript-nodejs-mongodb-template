@@ -17,8 +17,8 @@ This is a template project using TS.
 > The database (mongo) must be have running at port 27017 (default port)
 
 ```cmd
-git clone https://github.com/gabrielba15/typescript-node-mongo-template.git 
-cd typescript-node-mongo-template
+git clone https://github.com/gabrielba15/typescript-nodejs-mongodb-template.git 
+cd typescript-nodejs-mongodb-template
 npm install 
 npm run build 
 npm start

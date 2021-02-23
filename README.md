@@ -24,4 +24,4 @@ npm run build
 npm start
 ```
 
-> Ready, happy hacking :D.
+> Ready, happy hacking :D

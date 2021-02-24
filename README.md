@@ -1,6 +1,6 @@
-# TYPESCRIPT, NODEJS & MONGODB CRUD :rocket:
+# TYPESCRIPT, NODEJS & MONGODB PROJECT :rocket:
 
-This is a template project using TS.
+This is a project using TS.
 
 ## Technologies used for this project :computer:
 
@@ -12,7 +12,7 @@ This is a template project using TS.
 
 ![principal](docs/principal.png)
 
-## Usage
+## Installation
 
 > The database (mongo) must be have running at port 27017 (default port)
 
